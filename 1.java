@@ -29,7 +29,7 @@ public static void main(String[] args) {
 				int y = x.nextInt();
 					System.out.println(i[y]);
 			} catch (Exception e){} 
-			System.out.println("Data Loaded.");			
+			System.out.println("Data Loaded.");	// check		
 		}
 		else if(args[0].contains("+")){
 			System.out.println("Loading data ...");			
